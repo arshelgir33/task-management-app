@@ -1,0 +1,5 @@
+We use this command to install vite plugin, you must have node js installed
+-npm create vite@latest
+
+tailwindcss
+-npm install tailwindcss @tailwindcss/vite
